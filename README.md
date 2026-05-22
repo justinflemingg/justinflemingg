@@ -39,4 +39,4 @@ More cybersecurity labs and projects coming soon.
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: (paste your LinkedIn here)
+- LinkedIn: https://www.linkedin.com/in/justin-fleming-679126242/
