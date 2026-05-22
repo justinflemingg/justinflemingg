@@ -38,13 +38,4 @@
 - Linux Command Usage
 - Web Application Exploration
 ---
-### 🛡️ Room 2: Defensive Security Intro (Next Room)
-* **Core Concept Learned:** * **Key Lab Activity:** * **Flag Found:** ---
 
-### 💼 Room 3: Careers in Cyber (Not Started)
-* **Core Concept Learned:** * **Key Lab Activity:** * **Flag Found:** ---
-
----
-
-## 🌐 Module 2: Network Fundamentals
-* **Core Concept Learned:** * **Key Lab Activity:** * **Flag Found:** ---
