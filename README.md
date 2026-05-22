@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**justinflemingg/justinflemingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Justin Fleming
 
-Here are some ideas to get you started:
+🎓 Computer Science & Cybersecurity Student  
+🛡️ ISC2 CC Candidate  
+💻 Python Projects & Security Labs  
+📚 Currently learning cybersecurity, scripting, and defensive security concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+- ISC2 Certified in Cybersecurity (CC)
+- TryHackMe Labs
+- Python Security Projects
+- GitHub Portfolio Development
+- Security Operations & SOC Concepts
+
+---
+
+## 🧠 Skills
+- Python
+- Cybersecurity Fundamentals
+- Incident Response
+- Access Control
+- GitHub
+- Linux Fundamentals
+- Log Analysis
+
+---
+
+## 📂 Featured Projects
+### 🏋️ Spotter Gym Assistant
+A Python-based gym assistant chatbot focused on:
+- fitness guidance
+- workout motivation
+- beginner software development concepts
+
+More cybersecurity labs and projects coming soon.
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: (paste your LinkedIn here)
