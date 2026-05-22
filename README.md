@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Justin Fleming
 
 🎓 Computer Science & Cybersecurity Student  
