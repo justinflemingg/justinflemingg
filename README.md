@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Justin Fleming
 
-🎓 Computer Science & Cybersecurity Student  
-🛡️ ISC2 CC Candidate  
-💻 Python Projects & Security Labs  
-📚 Currently learning cybersecurity, scripting, and defensive security concepts
+🎓 - Computer Science & Cybersecurity Student  
+🛡️ - ISC2 CC Candidate  
+💻 - Python Projects & Security Labs  
+📚 - Currently learning cybersecurity, scripting, and defensive security concepts
 
 ---
 
