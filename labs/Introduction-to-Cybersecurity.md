@@ -38,4 +38,16 @@
 - Linux Command Usage
 - Web Application Exploration
 ---
+## Security Analysis
+
+This room demonstrated how attackers use reconnaissance and enumeration techniques to gather information about a target before attempting exploitation. Using Gobuster showed how hidden directories and pages that are not properly secured can still be discovered through automated scanning techniques.
+
+This highlights the importance of:
+
+proper access control
+removing sensitive hidden directories
+monitoring suspicious scanning activity
+implementing secure web application configurations
+
+The room also reinforced the idea that ethical hackers use the same tools and techniques as malicious attackers, but with authorization and the goal of improving security defenses.
 
