@@ -14,7 +14,7 @@
 - GitHub Portfolio Development
 - Security Operations & SOC Concepts
 
----
+----
 
 ## 🧠 Skills
 - Python
